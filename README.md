@@ -12,7 +12,7 @@
   <br />
   2. Способ им воспользоваться из С++. libcurl (https://curl.se/libcurl/)
   <br />
-  3. Библиотека для работы с JSON. Можно выбрать любую, например https://github.com/nlohmann/json
+  3. Библиотека для работы с JSON. https://github.com/nlohmann/json
 <br />
 <br />
 <br />
