@@ -1,4 +1,4 @@
-# ConcurencyChecker
+# Currency сhecker
 
 <br />
 <br />
